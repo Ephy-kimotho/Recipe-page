@@ -6,7 +6,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### SCREENSHOT
 ![Screenshot](./design/desktop-design.jpg)
 
-- [Click here to view solution](https://github.com/Ephy-kimotho/Recipe-page)
 - [Click here to view live site](https://recipe-b63-page.netlify.app/)
 
 ---
